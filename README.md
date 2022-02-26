@@ -1,2 +1,7 @@
-# DRF_api
-An API with token authentication built-in Django Rest Framework
+Token based Authentication system with Django Rest Framework
+
+
+**URLS**:
+
+/api -> for testing authorization
+/auth -> for requesting token
